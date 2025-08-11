@@ -17,7 +17,6 @@ Built with **Streamlit**, **LangChain**, and **ChromaDB**.
 
 ## 🖼️ Screenshot
 
-> 📌 *Insert screenshot below after running the app locally.*
 
 ![Screenshot Placeholder](Screenshot.png)
 
