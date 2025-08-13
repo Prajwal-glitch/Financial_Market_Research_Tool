@@ -5,3 +5,4 @@ langchain_groq==0.3.7
 langchain_huggingface==0.3.1
 python-dotenv==1.1.1
 streamlit==1.48.0
+python=3.11
